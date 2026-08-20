@@ -1,3 +1,5 @@
+**AABIT TRACKER**
+
 # Habit Tracking Application - Python Backend Portfolio Project
 
 This is a Habit Tracking Application built purely in Python 3, adhering strictly to object-oriented and functional programming paradigms for the IU university assignment.
